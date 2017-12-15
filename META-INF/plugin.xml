@@ -1,0 +1,104 @@
+<idea-plugin>
+  <id>com.daylerees.rainglow</id>
+  <name>Rainglow Color Schemes</name>
+  <version>1.0.0</version>
+  <vendor email="me@daylerees.com" url="https://github.com/rainglow/jetbrains">
+    Dayle Rees
+  </vendor>
+  <description>A collection of color themes created by Dayle Rees for all JetBrains platforms. <a href="https://github.com/rainglow">https://github.com/rainglow</a></description>
+  <change-notes></change-notes>
+  <idea-version since-build="131"/>
+  <depends>com.intellij.modules.lang</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <bundledColorScheme path="colors/arstotzka"/>
+    <bundledColorScheme path="colors/azure"/>
+    <bundledColorScheme path="colors/bold"/>
+    <bundledColorScheme path="colors/boxuk"/>
+    <bundledColorScheme path="colors/carbonight-contrast"/>
+    <bundledColorScheme path="colors/carbonight"/>
+    <bundledColorScheme path="colors/chocolate"/>
+    <bundledColorScheme path="colors/crisp"/>
+    <bundledColorScheme path="colors/darkside-contrast"/>
+    <bundledColorScheme path="colors/darkside"/>
+    <bundledColorScheme path="colors/earthsong-contrast"/>
+    <bundledColorScheme path="colors/earthsong-light"/>
+    <bundledColorScheme path="colors/earthsong"/>
+    <bundledColorScheme path="colors/freshcut-contrast"/>
+    <bundledColorScheme path="colors/freshcut"/>
+    <bundledColorScheme path="colors/frontier-contrast"/>
+    <bundledColorScheme path="colors/frontier"/>
+    <bundledColorScheme path="colors/github"/>
+    <bundledColorScheme path="colors/gloom-contrast"/>
+    <bundledColorScheme path="colors/gloom"/>
+    <bundledColorScheme path="colors/glowfish-contrast"/>
+    <bundledColorScheme path="colors/glowfish"/>
+    <bundledColorScheme path="colors/goldfish-contrast"/>
+    <bundledColorScheme path="colors/goldfish"/>
+    <bundledColorScheme path="colors/grunge-contrast"/>
+    <bundledColorScheme path="colors/grunge"/>
+    <bundledColorScheme path="colors/halflife-contrast"/>
+    <bundledColorScheme path="colors/halflife"/>
+    <bundledColorScheme path="colors/heroku"/>
+    <bundledColorScheme path="colors/hyrule-contrast"/>
+    <bundledColorScheme path="colors/hyrule"/>
+    <bundledColorScheme path="colors/iceberg-contrast"/>
+    <bundledColorScheme path="colors/iceberg"/>
+    <bundledColorScheme path="colors/juicy-contrast"/>
+    <bundledColorScheme path="colors/juicy"/>
+    <bundledColorScheme path="colors/keen-contrast"/>
+    <bundledColorScheme path="colors/keen"/>
+    <bundledColorScheme path="colors/kiwi"/>
+    <bundledColorScheme path="colors/laravel-contrast"/>
+    <bundledColorScheme path="colors/laravel"/>
+    <bundledColorScheme path="colors/lavender-contrast"/>
+    <bundledColorScheme path="colors/lavender"/>
+    <bundledColorScheme path="colors/legacy"/>
+    <bundledColorScheme path="colors/mellow-contrast"/>
+    <bundledColorScheme path="colors/mellow"/>
+    <bundledColorScheme path="colors/mintchoc"/>
+    <bundledColorScheme path="colors/mud-contrast"/>
+    <bundledColorScheme path="colors/mud"/>
+    <bundledColorScheme path="colors/otakon"/>
+    <bundledColorScheme path="colors/pastel"/>
+    <bundledColorScheme path="colors/patriot-contrast"/>
+    <bundledColorScheme path="colors/patriot"/>
+    <bundledColorScheme path="colors/peacock-contrast"/>
+    <bundledColorScheme path="colors/peacock"/>
+    <bundledColorScheme path="colors/peacocks-in-space"/>
+    <bundledColorScheme path="colors/peel"/>
+    <bundledColorScheme path="colors/piggy"/>
+    <bundledColorScheme path="colors/potpourri-contrast"/>
+    <bundledColorScheme path="colors/potpourri"/>
+    <bundledColorScheme path="colors/rainbow"/>
+    <bundledColorScheme path="colors/revelation-contrast"/>
+    <bundledColorScheme path="colors/revelation"/>
+    <bundledColorScheme path="colors/shrek"/>
+    <bundledColorScheme path="colors/slate"/>
+    <bundledColorScheme path="colors/slime-contrast"/>
+    <bundledColorScheme path="colors/slime"/>
+    <bundledColorScheme path="colors/snappy-contrast"/>
+    <bundledColorScheme path="colors/snappy-light"/>
+    <bundledColorScheme path="colors/snappy"/>
+    <bundledColorScheme path="colors/solarflare-contrast"/>
+    <bundledColorScheme path="colors/solarflare"/>
+    <bundledColorScheme path="colors/sourlick-contrast"/>
+    <bundledColorScheme path="colors/sourlick"/>
+    <bundledColorScheme path="colors/spearmint"/>
+    <bundledColorScheme path="colors/stark-contrast"/>
+    <bundledColorScheme path="colors/stark"/>
+    <bundledColorScheme path="colors/super"/>
+    <bundledColorScheme path="colors/tonic"/>
+    <bundledColorScheme path="colors/tribal"/>
+    <bundledColorScheme path="colors/tron-contrast"/>
+    <bundledColorScheme path="colors/tron"/>
+    <bundledColorScheme path="colors/turnip-contrast"/>
+    <bundledColorScheme path="colors/turnip"/>
+    <bundledColorScheme path="colors/userscape"/>
+    <bundledColorScheme path="colors/yule"/>
+    <bundledColorScheme path="colors/zacks-contrast"/>
+    <bundledColorScheme path="colors/zacks"/>
+  </extensions>
+  <application-components/>
+  <project-components/>
+  <actions/>
+</idea-plugin>
