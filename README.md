@@ -1,4 +1,4 @@
-![Rainglow](https://avatars1.githubusercontent.com/u/34078479?s=120)
+<img alt="Rainglow" src="https://raw.githubusercontent.com/rainglow/examples/master/widelogo.png" width="400" />
 
 # Rainglow
 
