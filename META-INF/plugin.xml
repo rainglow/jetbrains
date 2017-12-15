@@ -5,7 +5,10 @@
   <vendor email="me@daylerees.com" url="https://github.com/rainglow/jetbrains">
     Dayle Rees
   </vendor>
-  <description>A collection of color themes created by Dayle Rees for all JetBrains platforms. <a href="https://github.com/rainglow">https://github.com/rainglow</a></description>
+  <description><![CDATA[
+      A collection of color themes created by Dayle Rees for all JetBrains platforms.
+    ]]>  
+  </description>
   <change-notes></change-notes>
   <idea-version since-build="131"/>
   <depends>com.intellij.modules.lang</depends>
