@@ -1,7 +1,5 @@
 <img alt="Rainglow" src="https://raw.githubusercontent.com/rainglow/examples/master/widelogo.png" width="400" />
 
-# Rainglow
-
 ## JetBrains IDEs (PHPStorm, Webstorm, etc)
 
 [![Installs](https://img.shields.io/jetbrains/plugin/d/10267-rainglow-color-schemes.svg)](https://plugins.jetbrains.com/plugin/10267-rainglow-color-schemes)
