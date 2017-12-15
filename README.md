@@ -3,6 +3,10 @@
 # Rainglow
 
 ## JetBrains IDEs (PHPStorm, Webstorm, etc)
+
+[![Installs](https://img.shields.io/jetbrains/plugin/d/10267-rainglow-color-schemes.svg)](https://plugins.jetbrains.com/plugin/10267-rainglow-color-schemes)
+[![Version](https://img.shields.io/jetbrains/plugin/v/10267-rainglow-color-schemes.svg)](https://plugins.jetbrains.com/plugin/10267-rainglow-color-schemes)
+
 Rainglow is a collection of color themes for a number of different editors and platforms. This repository consists of **80+ syntax and UI themes** for [JetBrains IDEs](https://www.jetbrains.com/) including PHPStorm, Webstorm and more.
 
 Please note that these themes use the Material Darker theme by [Chris Magnussen](https://github.com/ChrisRM) as a base for compatibility. Thanks for all your hard work Chris!
