@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.daylerees.rainglow</id>
   <name>Rainglow Color Schemes</name>
-  <version>1.1.0</version>
+  <version>1.2.0</version>
   <vendor email="me@daylerees.com" url="https://github.com/rainglow/jetbrains">
     Dayle Rees
   </vendor>
@@ -18,17 +18,27 @@
     <bundledColorScheme path="colors/banner"/>
     <bundledColorScheme path="colors/bold"/>
     <bundledColorScheme path="colors/boxuk"/>
+    <bundledColorScheme path="colors/brave-contrast"/>
+    <bundledColorScheme path="colors/brave"/>
     <bundledColorScheme path="colors/carbonight-contrast"/>
     <bundledColorScheme path="colors/carbonight"/>
     <bundledColorScheme path="colors/chocolate"/>
+    <bundledColorScheme path="colors/coffee-contrast"/>
+    <bundledColorScheme path="colors/coffee"/>
+    <bundledColorScheme path="colors/comrade-contrast"/>
+    <bundledColorScheme path="colors/comrade"/>
     <bundledColorScheme path="colors/crackpot-contrast"/>
     <bundledColorScheme path="colors/crackpot"/>
     <bundledColorScheme path="colors/crisp"/>
     <bundledColorScheme path="colors/darkside-contrast"/>
     <bundledColorScheme path="colors/darkside"/>
+    <bundledColorScheme path="colors/downpour-contrast"/>
+    <bundledColorScheme path="colors/downpour"/>
     <bundledColorScheme path="colors/earthsong-contrast"/>
     <bundledColorScheme path="colors/earthsong-light"/>
     <bundledColorScheme path="colors/earthsong"/>
+    <bundledColorScheme path="colors/fodder-contrast"/>
+    <bundledColorScheme path="colors/fodder"/>
     <bundledColorScheme path="colors/freshcut-contrast"/>
     <bundledColorScheme path="colors/freshcut"/>
     <bundledColorScheme path="colors/frontier-contrast"/>
@@ -58,6 +68,8 @@
     <bundledColorScheme path="colors/isotope"/>
     <bundledColorScheme path="colors/juicy-contrast"/>
     <bundledColorScheme path="colors/juicy"/>
+    <bundledColorScheme path="colors/jumper-contrast"/>
+    <bundledColorScheme path="colors/jumper"/>
     <bundledColorScheme path="colors/keen-contrast"/>
     <bundledColorScheme path="colors/keen"/>
     <bundledColorScheme path="colors/kiwi"/>
@@ -66,6 +78,8 @@
     <bundledColorScheme path="colors/lavender-contrast"/>
     <bundledColorScheme path="colors/lavender"/>
     <bundledColorScheme path="colors/legacy"/>
+    <bundledColorScheme path="colors/lichen-contrast"/>
+    <bundledColorScheme path="colors/lichen"/>
     <bundledColorScheme path="colors/mellow-contrast"/>
     <bundledColorScheme path="colors/mellow"/>
     <bundledColorScheme path="colors/mintchoc"/>
@@ -89,6 +103,8 @@
     <bundledColorScheme path="colors/rebellion"/>
     <bundledColorScheme path="colors/revelation-contrast"/>
     <bundledColorScheme path="colors/revelation"/>
+    <bundledColorScheme path="colors/scorch-contrast"/>
+    <bundledColorScheme path="colors/scorch"/>
     <bundledColorScheme path="colors/shrek"/>
     <bundledColorScheme path="colors/slate"/>
     <bundledColorScheme path="colors/slime-contrast"/>
@@ -116,6 +132,8 @@
     <bundledColorScheme path="colors/violaceous"/>
     <bundledColorScheme path="colors/warlock-contrast"/>
     <bundledColorScheme path="colors/warlock"/>
+    <bundledColorScheme path="colors/waste-contrast"/>
+    <bundledColorScheme path="colors/waste"/>
     <bundledColorScheme path="colors/userscape"/>
     <bundledColorScheme path="colors/yule"/>
     <bundledColorScheme path="colors/zacks-contrast"/>
