@@ -1,4 +1,4 @@
-<img alt="Rainglow" src="https://raw.githubusercontent.com/rainglow/examples/master/widelogo.png" width="400" />
+<img alt="Rainglow" src="https://raw.githubusercontent.com/rainglow/examples/master/artwork/header.png" width="400" />
 
 ## JetBrains IDEs (PHPStorm, Webstorm, etc)
 
