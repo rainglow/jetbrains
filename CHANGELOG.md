@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.3.3 | 2017.12.24
+
+You forgot XML dummy.
+
 ## 1.3.2 | 2017.12.24
 
 Fix earthsong html rendering.
