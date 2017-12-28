@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 1.4.0 | 2017.12.28
+
+All themes have contrast version. New themes added. Colorblind theme.
+
 ## 1.3.3 | 2017.12.24
 
 You forgot XML dummy.

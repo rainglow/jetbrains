@@ -49,11 +49,11 @@
         <option name="ANNOTATIONS_COLOR" value="b0bec5"/>
         <option name="BORDER_LINES_COLOR" value=""/>
         <option name="CARET_COLOR" value="1b1b24"/>
-        <option name="CONSOLE_BACKGROUND_KEY" value="c8c7d5"/>
+        <option name="CONSOLE_BACKGROUND_KEY" value="f7f7fc"/>
         <option name="DELETED_LINES_COLOR" value="f77669"/>
         <option name="DIFF_SEPARATORS_BACKGROUND" value="1c1c1c"/>
         <option name="DIFF_SEPARATORS_TOP_BORDER" value="171717"/>
-        <option name="DOCUMENTATION_COLOR" value="c8c7d5"/>
+        <option name="DOCUMENTATION_COLOR" value="f7f7fc"/>
         <option name="FILESTATUS_ADDED" value="585480"/>
         <option name="FILESTATUS_COPIED" value="659d9a"/>
         <option name="FILESTATUS_DELETED" value="f77669"/>
@@ -72,32 +72,32 @@
         <option name="FILESTATUS_SWITCHED" value="8978f"/>
         <option name="FILESTATUS_UNKNOWN" value="f77669"/>
         <option name="FILESTATUS_modifiedOutside" value="585480"/>
-        <option name="GUTTER_BACKGROUND" value="c2c1d1"/>
-        <option name="INFORMATION_HINT" value="c8c7d5"/>
+        <option name="GUTTER_BACKGROUND" value="f0f0f9"/>
+        <option name="INFORMATION_HINT" value="f7f7fc"/>
         <option name="MODIFIED_LINES_COLOR" value="ffcb6e"/>
         <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967"/>
         <option name="MT_SUPPRESSED" value="1b1b24"/>
         <option name="NOT_CHANGED" value="616161"/>
         <option name="NOTIFICATION_BACKGROUND" value="3d1a11"/>
-        <option name="QUESTION_HINT" value="c8c7d5"/>
+        <option name="QUESTION_HINT" value="f7f7fc"/>
         <option name="SELECTION_BACKGROUND" value="7873ae"/>
         <option name="SELECTION_FOREGROUND" value="ffffff"/>
         <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269"/>
-        <option name="VCS_ANNOTATIONS_COLOR_1" value="c8c7d5"/>
+        <option name="VCS_ANNOTATIONS_COLOR_1" value="f7f7fc"/>
         <option name="VCS_ANNOTATIONS_COLOR_3" value="616161"/>
         <option name="VCS_ANNOTATIONS_COLOR_4" value="5a4036"/>
         <option name="VCS_ANNOTATIONS_COLOR_5" value="ab7967"/>
-        <option name="LINE_NUMBERS_COLOR" value="8f8da9"/>
-        <option name="WHITESPACES" value="bdbbcc"/>
-        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="bdbbcc"/>
-        <option name="CARET_ROW_COLOR" value="bfbece"/>
-        <option name="RIGHT_MARGIN_COLOR" value="bdbbcc"/>
-        <option name="SELECTED_INDENT_GUIDE" value="9d9bb4"/>
-        <option name="SELECTED_TEARLINE_COLOR" value="9d9bb4"/>
-        <option name="METHOD_SEPARATORS_COLOR" value="bab8ca"/>
-        <option name="VCS_ANNOTATIONS_COLOR_2" value="bab8ca"/>
-        <option name="INDENT_GUIDE" value="bfbece"/>
-        <option name="TEARLINE_COLOR" value="bdbbcc"/>
+        <option name="LINE_NUMBERS_COLOR" value="adade0"/>
+        <option name="WHITESPACES" value="e8e8f6"/>
+        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="e8e8f6"/>
+        <option name="CARET_ROW_COLOR" value="ececf8"/>
+        <option name="RIGHT_MARGIN_COLOR" value="e8e8f6"/>
+        <option name="SELECTED_INDENT_GUIDE" value="bfbfe7"/>
+        <option name="SELECTED_TEARLINE_COLOR" value="bfbfe7"/>
+        <option name="METHOD_SEPARATORS_COLOR" value="e4e4f5"/>
+        <option name="VCS_ANNOTATIONS_COLOR_2" value="e4e4f5"/>
+        <option name="INDENT_GUIDE" value="ececf8"/>
+        <option name="TEARLINE_COLOR" value="e8e8f6"/>
     </colors>
     <attributes>
         <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -219,13 +219,13 @@
         <option name="BREADCRUMBS_CURRENT">
             <value>
                 <option name="FOREGROUND" value="ffffff"/>
-                <option name="BACKGROUND" value="d6d6e0"/>
+                <option name="BACKGROUND" value="ffffff"/>
             </value>
         </option>
         <option name="BREADCRUMBS_DEFAULT">
             <value>
                 <option name="FOREGROUND" value="616161"/>
-                <option name="BACKGROUND" value="c8c7d5"/>
+                <option name="BACKGROUND" value="f7f7fc"/>
             </value>
         </option>
         <option name="BREADCRUMBS_HOVERED">
@@ -237,7 +237,7 @@
         <option name="BREADCRUMBS_INACTIVE">
             <value>
                 <option name="FOREGROUND" value="616161"/>
-                <option name="BACKGROUND" value="c8c7d5"/>
+                <option name="BACKGROUND" value="f7f7fc"/>
             </value>
         </option>
         <option name="BREAKPOINT_ATTRIBUTES">
@@ -2508,7 +2508,7 @@
         </option>
         <option name="PHP_SCRIPTING_BACKGROUND">
             <value>
-                <option name="BACKGROUND" value="c8c7d5"/>
+                <option name="BACKGROUND" value="f7f7fc"/>
             </value>
         </option>
         <option name="PHP_SEMICOLON">
@@ -2940,7 +2940,7 @@
         <option name="RUBY_HEREDOC_CONTENT">
             <value>
                 <option name="FOREGROUND" value="1b1b24"/>
-                <option name="BACKGROUND" value="c8c7d5"/>
+                <option name="BACKGROUND" value="f7f7fc"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
@@ -3024,7 +3024,7 @@
         </option>
         <option name="RUBY_REGEXP">
             <value>
-                <option name="BACKGROUND" value="c8c7d5"/>
+                <option name="BACKGROUND" value="f7f7fc"/>
             </value>
         </option>
         <option name="RUBY_SEMICOLON">
@@ -3445,7 +3445,7 @@
         <option name="Scala XML tag data">
             <value>
                 <option name="FOREGROUND" value="1b1b24"/>
-                <option name="BACKGROUND" value="c8c7d5"/>
+                <option name="BACKGROUND" value="f7f7fc"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
@@ -3530,7 +3530,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="1b1b24"/>
-                <option name="BACKGROUND" value="c8c7d5"/>
+                <option name="BACKGROUND" value="f7f7fc"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
@@ -3655,7 +3655,7 @@
         <option name="XML_TAG_DATA">
             <value>
                 <option name="FOREGROUND" value="1b1b24"/>
-                <option name="BACKGROUND" value="c8c7d5"/>
+                <option name="BACKGROUND" value="f7f7fc"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
