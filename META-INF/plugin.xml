@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.daylerees.rainglow</id>
   <name>Rainglow Color Schemes</name>
-  <version>1.4.0</version>
+  <version>1.5.0</version>
   <vendor email="me@daylerees.com" url="https://github.com/rainglow/jetbrains">
     Dayle Rees
   </vendor>
@@ -14,6 +14,12 @@
   <depends>com.intellij.modules.lang</depends>
   <extensions defaultExtensionNs="com.intellij">
   <bundledColorScheme path="colors/arstotzka-contrast"/>
+    <bundledColorScheme path="colors/absent-contrast"/>
+    <bundledColorScheme path="colors/absent"/>
+    <bundledColorScheme path="colors/absent-light"/>
+    <bundledColorScheme path="colors/allure-contrast"/>
+    <bundledColorScheme path="colors/allure"/>
+    <bundledColorScheme path="colors/allure-light"/>
     <bundledColorScheme path="colors/arstotzka"/>
     <bundledColorScheme path="colors/arstotzka-light"/>
     <bundledColorScheme path="colors/azure-contrast"/>
@@ -22,6 +28,9 @@
     <bundledColorScheme path="colors/banner-contrast"/>
     <bundledColorScheme path="colors/banner"/>
     <bundledColorScheme path="colors/banner-light"/>
+    <bundledColorScheme path="colors/blink-contrast"/>
+    <bundledColorScheme path="colors/blink"/>
+    <bundledColorScheme path="colors/blink-light"/>
     <bundledColorScheme path="colors/bold-contrast"/>
     <bundledColorScheme path="colors/bold"/>
     <bundledColorScheme path="colors/bold-light"/>
@@ -37,6 +46,9 @@
     <bundledColorScheme path="colors/chocolate-contrast"/>
     <bundledColorScheme path="colors/chocolate"/>
     <bundledColorScheme path="colors/chocolate-light"/>
+    <bundledColorScheme path="colors/codecourse-contrast"/>
+    <bundledColorScheme path="colors/codecourse"/>
+    <bundledColorScheme path="colors/codecourse-light"/>
     <bundledColorScheme path="colors/coffee-contrast"/>
     <bundledColorScheme path="colors/coffee"/>
     <bundledColorScheme path="colors/coffee-light"/>
@@ -49,6 +61,9 @@
     <bundledColorScheme path="colors/crisp-contrast"/>
     <bundledColorScheme path="colors/crisp"/>
     <bundledColorScheme path="colors/crisp-light"/>
+    <bundledColorScheme path="colors/dare-contrast"/>
+    <bundledColorScheme path="colors/dare"/>
+    <bundledColorScheme path="colors/dare-light"/>
     <bundledColorScheme path="colors/darkside-contrast"/>
     <bundledColorScheme path="colors/darkside"/>
     <bundledColorScheme path="colors/darkside-light"/>
@@ -61,9 +76,15 @@
     <bundledColorScheme path="colors/fodder-contrast"/>
     <bundledColorScheme path="colors/fodder"/>
     <bundledColorScheme path="colors/fodder-light"/>
+    <bundledColorScheme path="colors/frantic-contrast"/>
+    <bundledColorScheme path="colors/frantic"/>
+    <bundledColorScheme path="colors/frantic-light"/>
     <bundledColorScheme path="colors/freshcut-contrast"/>
     <bundledColorScheme path="colors/freshcut"/>
     <bundledColorScheme path="colors/freshcut-light"/>
+    <bundledColorScheme path="colors/friction-contrast"/>
+    <bundledColorScheme path="colors/friction"/>
+    <bundledColorScheme path="colors/friction-light"/>
     <bundledColorScheme path="colors/frontier-contrast"/>
     <bundledColorScheme path="colors/frontier"/>
     <bundledColorScheme path="colors/frontier-light"/>
@@ -112,6 +133,15 @@
     <bundledColorScheme path="colors/isotope-contrast"/>
     <bundledColorScheme path="colors/isotope"/>
     <bundledColorScheme path="colors/isotope-light"/>
+    <bundledColorScheme path="colors/jewel-contrast"/>
+    <bundledColorScheme path="colors/jewel"/>
+    <bundledColorScheme path="colors/jewel-light"/>
+    <bundledColorScheme path="colors/jingle-contrast"/>
+    <bundledColorScheme path="colors/jingle"/>
+    <bundledColorScheme path="colors/jingle-light"/>
+    <bundledColorScheme path="colors/joker-contrast"/>
+    <bundledColorScheme path="colors/joker"/>
+    <bundledColorScheme path="colors/joker-light"/>
     <bundledColorScheme path="colors/juicy-contrast"/>
     <bundledColorScheme path="colors/juicy"/>
     <bundledColorScheme path="colors/juicy-light"/>
@@ -124,6 +154,9 @@
     <bundledColorScheme path="colors/kiwi-contrast"/>
     <bundledColorScheme path="colors/kiwi"/>
     <bundledColorScheme path="colors/kiwi-light"/>
+    <bundledColorScheme path="colors/laracasts-contrast"/>
+    <bundledColorScheme path="colors/laracasts"/>
+    <bundledColorScheme path="colors/laracasts-light"/>
     <bundledColorScheme path="colors/laravel-contrast"/>
     <bundledColorScheme path="colors/laravel"/>
     <bundledColorScheme path="colors/laravel-light"/>
@@ -160,6 +193,9 @@
     <bundledColorScheme path="colors/otakon-contrast"/>
     <bundledColorScheme path="colors/otakon"/>
     <bundledColorScheme path="colors/otakon-light"/>
+    <bundledColorScheme path="colors/overflow-contrast"/>
+    <bundledColorScheme path="colors/overflow"/>
+    <bundledColorScheme path="colors/overflow-light"/>
     <bundledColorScheme path="colors/pastel-contrast"/>
     <bundledColorScheme path="colors/pastel"/>
     <bundledColorScheme path="colors/pastel-light"/>
@@ -175,9 +211,15 @@
     <bundledColorScheme path="colors/peel-contrast"/>
     <bundledColorScheme path="colors/peel"/>
     <bundledColorScheme path="colors/peel-light"/>
+    <bundledColorScheme path="colors/penitent-contrast"/>
+    <bundledColorScheme path="colors/penitent"/>
+    <bundledColorScheme path="colors/penitent-light"/>
     <bundledColorScheme path="colors/piggy-contrast"/>
     <bundledColorScheme path="colors/piggy"/>
     <bundledColorScheme path="colors/piggy-light"/>
+    <bundledColorScheme path="colors/pleasure-contrast"/>
+    <bundledColorScheme path="colors/pleasure"/>
+    <bundledColorScheme path="colors/pleasure-light"/>
     <bundledColorScheme path="colors/potpourri-contrast"/>
     <bundledColorScheme path="colors/potpourri"/>
     <bundledColorScheme path="colors/potpourri-light"/>
@@ -241,6 +283,9 @@
     <bundledColorScheme path="colors/super-contrast"/>
     <bundledColorScheme path="colors/super"/>
     <bundledColorScheme path="colors/super-light"/>
+    <bundledColorScheme path="colors/tame-contrast"/>
+    <bundledColorScheme path="colors/tame"/>
+    <bundledColorScheme path="colors/tame-light"/>
     <bundledColorScheme path="colors/tetra-contrast"/>
     <bundledColorScheme path="colors/tetra"/>
     <bundledColorScheme path="colors/tetra-light"/>
@@ -267,15 +312,24 @@
     <bundledColorScheme path="colors/violaceous-light"/>
     <bundledColorScheme path="colors/vision-colorblind"/>
     <bundledColorScheme path="colors/vision-light-colorblind"/>
+    <bundledColorScheme path="colors/volatile-contrast"/>
+    <bundledColorScheme path="colors/volatile"/>
+    <bundledColorScheme path="colors/volatile-light"/>
     <bundledColorScheme path="colors/warlock-contrast"/>
     <bundledColorScheme path="colors/warlock"/>
     <bundledColorScheme path="colors/warlock-light"/>
     <bundledColorScheme path="colors/waste-contrast"/>
     <bundledColorScheme path="colors/waste"/>
     <bundledColorScheme path="colors/waste-light"/>
+    <bundledColorScheme path="colors/yitzchok-contrast"/>
+    <bundledColorScheme path="colors/yitzchok"/>
+    <bundledColorScheme path="colors/yitzchok-light"/>
     <bundledColorScheme path="colors/userscape-contrast"/>
     <bundledColorScheme path="colors/userscape"/>
     <bundledColorScheme path="colors/userscape-light"/>
+    <bundledColorScheme path="colors/vegetable-contrast"/>
+    <bundledColorScheme path="colors/vegetable"/>
+    <bundledColorScheme path="colors/vegetable-light"/>
     <bundledColorScheme path="colors/yule-contrast"/>
     <bundledColorScheme path="colors/yule"/>
     <bundledColorScheme path="colors/yule-light"/>

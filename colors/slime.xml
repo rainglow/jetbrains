@@ -1,7 +1,7 @@
 <!--
   ~ The MIT License (MIT)
   ~
-  ~ Copyright (c) 2017 Dayle Rees.
+  ~ Copyright (c) 2018 Dayle Rees.
   ~
   ~ Permission is hereby granted, free of charge, to any person obtaining a copy
   ~ of this software and associated documentation files (the "Software"), to deal
@@ -680,7 +680,7 @@
         </option>
         <option name="DEFAULT_DOC_COMMENT_TAG">
             <value>
-                <option name="FOREGROUND" value="80919f"/>
+                <option name="FOREGROUND" value="000000"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
@@ -2418,7 +2418,7 @@
         </option>
         <option name="PHP_DOC_TAG">
             <value>
-                <option name="FOREGROUND" value="80919f"/>
+                <option name="FOREGROUND" value="000000"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
@@ -2612,7 +2612,7 @@
         </option>
         <option name="PY.DOC_COMMENT_TAG">
             <value>
-                <option name="FOREGROUND" value="80919f"/>
+                <option name="FOREGROUND" value="000000"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
@@ -3456,7 +3456,7 @@
         </option>
         <option name="ScalaDoc @param value">
             <value>
-                <option name="FOREGROUND" value="80919f"/>
+                <option name="FOREGROUND" value="000000"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
@@ -3468,7 +3468,7 @@
         </option>
         <option name="ScalaDoc comment tag">
             <value>
-                <option name="FOREGROUND" value="80919f"/>
+                <option name="FOREGROUND" value="000000"/>
                 <option name="EFFECT_TYPE" value="1"/>
             </value>
         </option>
@@ -3536,7 +3536,7 @@
         </option>
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="000000"/>
+                <option name="FOREGROUND" value="333333"/>
                 <option name="BACKGROUND" value="ffe792"/>
                 <option name="EFFECT_COLOR" value="ffe792"/>
             </value>
@@ -3619,7 +3619,7 @@
         </option>
         <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="000000"/>
+                <option name="FOREGROUND" value="333333"/>
                 <option name="BACKGROUND" value="ffe792"/>
                 <option name="ERROR_STRIPE_COLOR" value="c55450"/>
             </value>
