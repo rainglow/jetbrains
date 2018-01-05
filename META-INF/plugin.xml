@@ -181,6 +181,9 @@
     <bundledColorScheme path="colors/mintchoc-contrast"/>
     <bundledColorScheme path="colors/mintchoc"/>
     <bundledColorScheme path="colors/mintchoc-light"/>
+    <bundledColorScheme path="colors/monzo-contrast"/>
+    <bundledColorScheme path="colors/monzo"/>
+    <bundledColorScheme path="colors/monzo-light"/>
     <bundledColorScheme path="colors/morass-contrast"/>
     <bundledColorScheme path="colors/morass"/>
     <bundledColorScheme path="colors/morass-light"/>
