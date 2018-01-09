@@ -15,6 +15,7 @@ Please note that these themes use the Material Darker theme by [Chris Magnussen]
 
 To show support for the project, you can do any (or many!) of the following:
 
+- [Wear a theme.](https://teespring.com/stores/rainglow)
 - [Star the repository.](https://github.com/rainglow/jetbrains/stargazers)
 - [Rate the extension on the plugins repository.](https://plugins.jetbrains.com/plugin/10267-rainglow-color-schemes)
 - [Follow me on twitter, and say hi!](https://twitter.com/daylerees)
@@ -22,6 +23,7 @@ To show support for the project, you can do any (or many!) of the following:
 - [Share on product hunt.](https://www.producthunt.com/)
 - [Buy my books!](https://daylerees.com/books/)
 - [Donate via PayPal.](https://paypal.me/daylerees)
+- [Donate via Monzo.](https://monzo.me/daylerees)
 
 ### Easy Installation
 
