@@ -7,7 +7,7 @@
 
 Rainglow is a collection of color themes for a number of different editors and platforms. This repository consists of **320+ syntax and UI themes** for [JetBrains IDEs](https://www.jetbrains.com/) including PHPStorm, Webstorm and more.
 
-Please note that these themes use the Material Darker theme by [Chris Magnussen](https://github.com/ChrisRM) as a base for compatibility. Thanks for all your hard work Chris!
+Please note that these themes use the [Material Darker](https://github.com/ChrisRM/material-theme-jetbrains) theme by [Chris Magnussen](https://github.com/ChrisRM) as a base for compatibility. Thanks for all your hard work Chris!
 
 <a href="https://raw.githubusercontent.com/rainglow/examples/master/jetbrains/gloom-contrast.png" target="_blank"><img src="https://raw.githubusercontent.com/rainglow/examples/master/jetbrains/gloom-contrast.png" width="340" /></a><a href="https://raw.githubusercontent.com/rainglow/examples/master/jetbrains/kiwi.png" target="_blank"><img src="https://raw.githubusercontent.com/rainglow/examples/master/jetbrains/kiwi.png" width="340" /></a><a href="https://raw.githubusercontent.com/rainglow/examples/master/jetbrains/piggy.png" target="_blank"><img src="https://raw.githubusercontent.com/rainglow/examples/master/jetbrains/piggy.png" width="340" /></a><a href="https://raw.githubusercontent.com/rainglow/examples/master/jetbrains/earthsong.png" target="_blank"><img src="https://raw.githubusercontent.com/rainglow/examples/master/jetbrains/earthsong.png" width="340" /></a>
 
